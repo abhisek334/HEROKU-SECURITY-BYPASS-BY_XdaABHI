@@ -33,14 +33,14 @@ sudo docker-compose start
 
 # DEPLOY BY USING WORKFLOW
 ```
-add heroku app name to secreat
- ```
- add heroku email to secreat
- ```
- add heroku api to secreat
- ```
- add github gist raw  to secreat
- .....
+add HEROKU_APP_NAME to secreat
+```
+add HEROKU_EMAIL to secreat
+```
+add HEROKU_API_KEY to secreat
+```
+add CONFIG_FILE_URL  to secreat
+.....
  
 # Extras
 
