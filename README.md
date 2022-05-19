@@ -31,6 +31,17 @@ sudo docker-compose start
 
 ------
 
+# DEPLOY BY USING WORKFLOW
+```
+add heroku app name to secreat
+ ```
+ add heroku email to secreat
+ ```
+ add heroku api to secreat
+ ```
+ add github gist raw  to secreat
+ .....
+ 
 # Extras
 
 ## Bot commands to be set in [@BotFather](https://t.me/BotFather)
