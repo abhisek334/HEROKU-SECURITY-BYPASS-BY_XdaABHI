@@ -37,17 +37,10 @@ sudo docker-compose start
 
 ```
 mirror - Mirror
-zipmirror - Mirror and upload as zip
 unzipmirror - Mirror and extract files
-qbmirror - Mirror torrent using qBittorrent
-qbzipmirror - Mirror torrent and upload as zip using qb
-qbunzipmirror - Mirror torrent and extract files using qb
 leech - Leech
 zipleech - Leech and upload as zip
 unzipleech - Leech and extract files
-qbleech - Leech torrent using qBittorrent
-qbzipleech - Leech torrent and upload as zip using qb
-qbunzipleech - Leech torrent and extract using qb
 clone - Copy file/folder to Drive
 count - Count file/folder of Drive
 watch - Mirror yt-dlp supported link
