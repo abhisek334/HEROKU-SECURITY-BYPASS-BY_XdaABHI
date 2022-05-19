@@ -27,7 +27,7 @@ sudo docker-compose stop
 sudo docker-compose start
 ```
 - Tutorial video from Tortoolkit repo for docker-compose and checking ports
-<p><a href=""> <img src="[https://img.shields.io/badge/See%20Video-black?](https://telegra.ph/DEPLOY-05-19)style=for-the-badge&logo=YouTube" width="160""/></a></p>
+<p><a href=""> <img src="devolopehgf1254style=for-the-badge&logo=YouTube" width="160""/></a></p>
 
 ------
 
