@@ -76,11 +76,11 @@ help - All cmds with description
 ```
 ------
  
- # If You Face Any Issue While Deploying Bot Contact Me On Telegram
+ # If You Face Any Issue Or Ban While Deploying Bot Contact Me On Telegram
 ```
 https://t.me/XdaAbhi
 ```
 ------
 
 
-### 🙂🙂🙂 ENJOY YOUR PERSONAL SUPER LEECH&MIRROR BOT 🙂🙂🙂
+### 🙂🙂🙂 ENJOY YOUR MIRROR BOT 🙂🙂🙂
